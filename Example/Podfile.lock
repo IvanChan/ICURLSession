@@ -1,5 +1,5 @@
 PODS:
-  - ICURLSession (0.1.0)
+  - ICURLSession (0.9.0)
 
 DEPENDENCIES:
   - ICURLSession (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ICURLSession: d4854924dcf13c6f2ec19b695fc264d00477673e
+  ICURLSession: 4b3c3368563728a30c9aaf4d600eb6c6d692a93a
 
 PODFILE CHECKSUM: 4dd7a5bd16f073300ab44331f760d528a6e455bc
 
